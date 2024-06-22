@@ -11,4 +11,4 @@ The application has 2 colour modes, including an option for colour-blind users.
 
 The tool allows to import airport and runway information in XML format, and export results in XML, JPEG, PNG and TXT formats.
 
-The full documentation is available at ... .
+The full documentation is available at [link](https://github.com/Cyber-Var/RunwayRedeclarationTool/blob/main/UserGuide.docx) .
